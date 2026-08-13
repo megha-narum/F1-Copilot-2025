@@ -3,7 +3,7 @@
 An AI assistant for casual F1 fans that answers questions about the 2025
 season — grounded in real, cited sources, not just AI-generated guesses.
 
-**Live demo:** _(add your deployed Streamlit link here once deployed)_
+**Live demo:** _https://f1-copilot-2025.streamlit.app/_
 
 ---
 
