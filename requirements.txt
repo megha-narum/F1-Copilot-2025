@@ -1,0 +1,6 @@
+langchain-anthropic
+langchain-core
+tavily-python
+requests
+python-dotenv
+streamlit
